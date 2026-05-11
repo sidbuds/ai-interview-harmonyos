@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ResumeList",
+    "pages/ResumeDetail",
+    "pages/Interview",
+    "pages/InterviewReport",
+    "pages/InterviewList",
+    "pages/KnowledgeBase",
+    "pages/RagChat",
+    "pages/Chat"
+  ]
+}
