@@ -1,0 +1,39 @@
+{
+  "routerMap": [
+    {
+      "name": "ResumeList",
+      "pageSourceFile": "src/main/ets/pages/ResumeList.ets",
+      "buildFunction": "ResumeListBuilder"
+    },
+    {
+      "name": "ResumeDetail",
+      "pageSourceFile": "src/main/ets/pages/ResumeDetail.ets",
+      "buildFunction": "ResumeDetailBuilder"
+    },
+    {
+      "name": "InterviewList",
+      "pageSourceFile": "src/main/ets/pages/InterviewList.ets",
+      "buildFunction": "InterviewListBuilder"
+    },
+    {
+      "name": "Interview",
+      "pageSourceFile": "src/main/ets/pages/Interview.ets",
+      "buildFunction": "InterviewBuilder"
+    },
+    {
+      "name": "InterviewReport",
+      "pageSourceFile": "src/main/ets/pages/InterviewReport.ets",
+      "buildFunction": "InterviewReportBuilder"
+    },
+    {
+      "name": "KnowledgeBase",
+      "pageSourceFile": "src/main/ets/pages/KnowledgeBase.ets",
+      "buildFunction": "KnowledgeBaseBuilder"
+    },
+    {
+      "name": "RagChat",
+      "pageSourceFile": "src/main/ets/pages/RagChat.ets",
+      "buildFunction": "RagChatBuilder"
+    }
+  ]
+}
